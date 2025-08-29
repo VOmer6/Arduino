@@ -1,6 +1,6 @@
 # Arduino
 Temel düzeyde Arduino - C++ projeleri paylaşıyorum. Yeni başlayanlar için yardımcı olacağını düşünmekteyim.
-Bu uygulamamızda led 5 sn yanıp 5 sn söner. 
+Bu uygulamamızda led 0,5 sn yanıp 0,5 sn söner. 
 
 pinMode (1,OUTPUT) kodumuz ile 1. led'e çıkış verdik.
 DigitalWrite ile dijital yazma olacağını HIGH ile led'i 1 yapacağımızı başka bir söylem ile led'i true yapacağımızı , ledin çalışır hale geleceğini yazdık.
